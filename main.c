@@ -6,8 +6,9 @@ int main() {
 
     // Second chunk of code
     int b = 2;
+    int c = 3;
 
-    printf("sum = %d\n", a + b);
+    printf("sum = %d\n", a + b + c);
 
     return 0;
 }
